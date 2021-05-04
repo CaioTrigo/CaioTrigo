@@ -1,5 +1,12 @@
 # Hello! I'm Caio Trigo :panda_face:
 
+ <br>About me<br>
+  - Polyglot :brazil: :us: :fr: :es: :it:
+  - Front-End enthusiast 
+  - Studying Programming 
+  - Illustrator 
+  - Writer 
+
 <div>
  <img src="https://komarev.com/ghpvc/?username=CaioTrigo" alt="CaioTrigo"><br>
 </div>
@@ -20,8 +27,6 @@
  <img align="center" alt="Panda-Premiere" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-plain.svg">
  <img align="center" alt="Panda-AfterEffects" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-plain.svg">
 </div>
-  
-  #
 
 <div>
  <a href ="mailto: caiodstrigo@gmail.com"><img height="50em" src="https://s3.gifyu.com/images/Icone-Gmail.gif" target="_blank"></a>
