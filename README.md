@@ -1,10 +1,10 @@
 # Hello! I'm Caio Trigo :panda_face:
 
-<div style="display: inline_block"><br>
- <img src="https://komarev.com/ghpvc/?username=" alt="CaioTrigo">
+<div>
+ <img src="https://komarev.com/ghpvc/?username=CaioTrigo" alt="CaioTrigo"><br>
 </div>
 
-<div>
+<div style="display: inline_block">
  <a href="https://github.com/CaioTrigo">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioTrigo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioTrigo&layout=compact&langs_count=16&theme=tokyonight"/>
