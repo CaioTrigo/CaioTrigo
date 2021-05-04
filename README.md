@@ -28,6 +28,8 @@
  <img align="center" alt="Panda-AfterEffects" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-plain.svg">
 </div>
 
+#
+
 <div>
  <a href ="mailto: caiodstrigo@gmail.com"><img height="50em" src="https://s3.gifyu.com/images/Icone-Gmail.gif" target="_blank"></a>
  <a href="https://www.youtube.com/channel/UCv5T-D25fUMAiR9YvLt-TVA" target="_blank"><img height="50em" src="https://s3.gifyu.com/images/Icone-YouTube.gif" target="_blank"></a>
