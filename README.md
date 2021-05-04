@@ -25,9 +25,9 @@
 
 <div>
  <a href ="mailto: caiodstrigo@gmail.com"><img height="50em" src="https://s3.gifyu.com/images/Icone-Gmail.gif" target="_blank"></a>
- <a href="https://www.linkedin.com/in/caiopandasart" target="_blank"><img height="50em" src="https://s3.gifyu.com/images/Icone-LinkedIn.gif" target="_blank"></a>
  <a href="https://www.youtube.com/channel/UCv5T-D25fUMAiR9YvLt-TVA" target="_blank"><img height="50em" src="https://s3.gifyu.com/images/Icone-YouTube.gif" target="_blank"></a>
  <a href="https://instagram.com/caiopandasart" target="_blank"><img height="50em" src="https://s3.gifyu.com/images/Icone-Instagram.gif" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/caiopandasart" target="_blank"><img height="50em" src="https://s3.gifyu.com/images/Icone-LinkedIn.gif" target="_blank"></a>
  <a href="https://facebook.com/caiopandasart" target="_blank"><img height="50em" src="https://s3.gifyu.com/images/Icone-Facebook.gif" target="_blank"></a>
  <a href="https://artstation.com/caiopandasart" target="_blank"><img height="50em" src="https://s3.gifyu.com/images/Icone-Artstation.gif" targe="_blank"></a>
  <a href="https://behance.net/CaioPandasArt" target="_blank"> <img height="50em" src="https://s3.gifyu.com/images/Icone-Behance.gif" target="_blank"></a>
