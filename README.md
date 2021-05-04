@@ -1,10 +1,8 @@
 # Hello! I'm Caio Trigo :panda_face:
 
 <div style="display: inline_block"><br>
- <img src="https://komarev.com/ghpvc/?username=CaioTrigo" alt="CaioTrigo">
+ <img src="https://komarev.com/ghpvc/?username=" alt="CaioTrigo">
 </div>
-
-#
 
 <div>
  <a href="https://github.com/CaioTrigo">
