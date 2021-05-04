@@ -7,8 +7,8 @@
   - Studying Programming <br>
   - Illustrator <br>
   - Writer <br>
-
-<div>
+ 
+<div><br>
  <img src="https://komarev.com/ghpvc/?username=CaioTrigo" alt="CaioTrigo"><br>
 </div>
 
