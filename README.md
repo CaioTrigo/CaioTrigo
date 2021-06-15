@@ -38,7 +38,7 @@
  <a href="https://instagram.com/caiopandasart" target="_blank"><img height="50em" src="https://s3.gifyu.com/images/Icone-Instagram.gif" target="_blank"></a>
  <a href="https://www.linkedin.com/in/caiopandasart" target="_blank"><img height="50em" src="https://s3.gifyu.com/images/Icone-LinkedIn.gif" target="_blank"></a>
  <a href="https://facebook.com/caiopandasart" target="_blank"><img height="50em" src="https://s3.gifyu.com/images/Icone-Facebook.gif" target="_blank"></a>
- <a href="https://www.twitch.tv/caiopandasart" target="_blank"><img height="50em" src="https://gifyu.com/image/1KKA" target="_blank"></a>
+ <a href="https://twitch.tv/caiopandasart" target="_blank"><img height="50em" src="https://s6.gifyu.com/images/Icone---Twitch.gif" target="_blank"></a>
  <a href="https://artstation.com/caiopandasart" target="_blank"><img height="50em" src="https://s3.gifyu.com/images/Icone-Artstation.gif" targe="_blank"></a>
  <a href="https://behance.net/CaioPandasArt" target="_blank"> <img height="50em" src="https://s3.gifyu.com/images/Icone-Behance.gif" target="_blank"></a>
  <a href="https://twitter.com/caiopandasart" target="_blank"> <img height="50em" src="https://s3.gifyu.com/images/Icone-Twitter.gif" target="_blank"></a>
