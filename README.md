@@ -4,7 +4,6 @@
 <b>About me:</b> <br>
   - Polyglot :brazil: :us: :fr: :es: :it: <br>
   - Full-Stack Developer still developing myself :computer: <br> 
-  - Front-End enthusiast :desktop_computer: <br>
   - Digital Artist :art: <br>
   - Writer :scroll: <br>
  
