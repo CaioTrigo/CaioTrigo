@@ -8,7 +8,7 @@
   - Writer :scroll: <br>
  
 <div><br>
- <img src="https://komarev.com/ghpvc/?username=CaioTrigo" alt="CaioTrigo"><br>
+ <img src="https://photos.google.com/album/AF1QipMU62Ewhq-7t8oAM3mMPH2kaC_mZoKUhZL17Mx3/photo/AF1QipPemCfuSEM4YJnAwaaKHC_VgH2a-f0Tn0tgxzbC" alt="CaioTrigo"><br>
 </div>
 
 <div style="display: inline_block">
