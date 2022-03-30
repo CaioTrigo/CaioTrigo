@@ -7,9 +7,9 @@
   - Digital Artist :art: <br>
   - Writer :scroll: <br>
  
-<div><br>
+<!-- <div><br>
  <img src="https://photos.google.com/album/AF1QipMU62Ewhq-7t8oAM3mMPH2kaC_mZoKUhZL17Mx3/photo/AF1QipPemCfuSEM4YJnAwaaKHC_VgH2a-f0Tn0tgxzbC" alt="CaioTrigo"><br>
-</div>
+</div> -->
 
 <div style="display: inline_block">
  <a href="https://github.com/CaioTrigo">
